@@ -1,19 +1,10 @@
-import djbutton from "./djbutton";
+import name from "./name"
 
 function App(){
-return 
-<div>
+    return 
+    <div>
+    <h1>Making the game engaging and it will make the same </h1>
 
-<h1>this is the beat react code     
-</h1>
-
-
-<button>JS example </button>
-<djbutton>
-
-</djbutton>
-</div>
-
+    <name></name>
+    </div>
 }
-
-export default App;
